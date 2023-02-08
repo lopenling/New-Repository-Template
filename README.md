@@ -24,10 +24,6 @@
 
 A template repository for all Lopen Ling repos. Replace the content in this section with the title of your project.
 
-## :closed_book: Docs
-
-Replace the content in this section with the title of your project.
-
 ## :grin: Owner
 
 [@mikkokotila](https://github.com/mikkokotila.com)
