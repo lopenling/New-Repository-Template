@@ -16,6 +16,7 @@
 <p align="center">
   <a href="#floppy_disk-description">Description</a> •
   <a href="#closed_book-docs">Docs</a> •
+  <a href="#grin-owner">Owner</a> •
   <a href="#speech_balloon-get-help">Get Help</a>
 </p>
 <hr>
